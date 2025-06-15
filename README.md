@@ -23,7 +23,7 @@ A simple and clean To-Do list web application that lets users add and delete the
 
 ## 📸 Screenshots
 
-> *(Add a screenshot here after hosting or running the app)*
+> *()*
 
 ---
 
