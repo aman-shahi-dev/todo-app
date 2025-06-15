@@ -23,7 +23,7 @@ A simple and clean To-Do list web application that lets users add and delete the
 
 ## 📸 Screenshots
 
-> *()*
+> *(https://github.com/aman-shahi-dev/todo-app/blob/main/todo-app%20landing%20page.jpg)*
 
 ---
 
