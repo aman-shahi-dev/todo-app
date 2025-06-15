@@ -2,6 +2,8 @@
 
 A simple and clean To-Do list web application that lets users add and delete their daily tasks with ease.
 
+🔗 **Live Demo**: [Click here to try it out](https://aman-shahi-dev.github.io/todo-app/)
+
 ---
 
 ## 🚀 Features
